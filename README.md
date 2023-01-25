@@ -12,9 +12,9 @@
 <p>Welcome to my profile! I'm a full-stack developer based out of Canada. I have a background in Electrical Engineering Technician and now working in the Web Dev field! Talk to me about:</p>
 
 <ul>
-  <li>Front-End:</li>
-  <li>Back-End</li>
-  <li>Libraries:</li>
+  <li>Front-End: HTML5, CSS3, CSS, SASS, Bootstrap, JavaScript, React</li>
+  <li>Back-End: JavaScript, Node.js, Express.js, mySQL</li>
+  <li>Libraries: React-Router-Dom, bcrypt, Axios</li>
 </ul>
 <!--
 **jacky-ui/jacky-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
