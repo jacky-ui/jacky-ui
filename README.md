@@ -15,9 +15,11 @@
   <li>Front-End: HTML5, CSS3, CSS, SASS, Bootstrap, JavaScript, React</li>
   <li>Back-End: JavaScript, Node.js, Express.js, mySQL</li>
   <li>Libraries: React-Router-Dom, bcrypt, Axios</li>
+  <li>Tools:</li>
   <li>Fun Side Things: AutoCAD, Arduino</li>
 </ul>
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,nodejs,express,mysql,&theme=light)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,nodejs,express,mysql,&theme=light)](https://skillicons.dev)
 
 <p>console.log('Shh. You had me at "Full-Stack Developer".')</p>
