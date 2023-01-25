@@ -15,7 +15,7 @@
   <li>Front-End: HTML5, CSS3, CSS, SASS, Bootstrap, JavaScript, React</li>
   <li>Back-End: JavaScript, Node.js, Express.js, mySQL</li>
   <li>Libraries: React-Router-Dom, bcrypt, Axios</li>
-  <li>Fun Side Things: </li>
+  <li>Fun Side Things: AutoCAD, Arduino</li>
 </ul>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,nodejs,epress,mysql,&theme=light)](https://skillicons.dev)
