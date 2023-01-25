@@ -15,7 +15,7 @@
   <li>Front-End: HTML5, CSS3, CSS, SASS, Bootstrap, JavaScript, React</li>
   <li>Back-End: JavaScript, Node.js, Express.js, mySQL</li>
   <li>Libraries: React-Router-Dom, bcrypt, Axios</li>
-  <li>Tools:</li>
+  <li>Tools: Figma, Git, Github, VSCode, Postman, SAP hybris, JIRA</li>
   <li>Fun Side Things: AutoCAD, Arduino</li>
 </ul>
 
