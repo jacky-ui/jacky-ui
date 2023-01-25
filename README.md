@@ -18,7 +18,7 @@
   <li>Fun Side Things: AutoCAD, Arduino</li>
 </ul>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,nodejs,epress,mysql,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,nodejs,express,mysql,&theme=light)](https://skillicons.dev)
 
 <p>console.log('Shh. You had me at "Full-Stack Developer".')</p>
 <!--
