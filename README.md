@@ -17,6 +17,9 @@
   <li>Libraries: React-Router-Dom, bcrypt, Axios</li>
 </ul>
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)
+
 <p>console.log('Shh. You had me at "Full-Stack Developer".')</p>
 <!--
 **jacky-ui/jacky-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
