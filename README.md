@@ -16,6 +16,8 @@
   <li>Back-End: JavaScript, Node.js, Express.js, mySQL</li>
   <li>Libraries: React-Router-Dom, bcrypt, Axios</li>
 </ul>
+
+<p>console.log('Shh. You had me at "Full-Stack Developer".')</p>
 <!--
 **jacky-ui/jacky-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
