@@ -16,11 +16,11 @@
   <li>Back-End: JavaScript, Node.js, Express.js, mySQL</li>
   <li>Libraries: React-Router-Dom, bcrypt, Axios</li>
   <li>Tools: Figma, Git, Github, VSCode, Postman, SAP hybris, JIRA</li>
-  <li>Fun Side Things: AutoCAD, Arduino</li>
+  <li>Others: AutoCAD, Arduino</li>
 </ul>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,nodejs,express,mysql,&theme=light)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,nodejs,express,mysql,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,nodejs,express&theme=light)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=mysql,figma,git,github,vscode,autocad,arduino&theme=light)](https://skillicons.dev)
 
 <p>console.log('Shh. You had me at "Full-Stack Developer".')</p>
 <!--
