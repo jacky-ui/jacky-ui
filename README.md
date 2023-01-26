@@ -19,8 +19,12 @@
   <li>Others: AutoCAD, Arduino</li>
 </ul>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,nodejs,express&theme=light)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=mysql,figma,git,github,vscode,autocad,arduino&theme=light)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,nodejs,express"/> <br>
+    <img src="https://skillicons.dev/icons?i=mysql,figma,git,github,vscode,autocad,arduino"/>
+  </a>
+</p>
 
 <p>console.log('Shh. You had me at "Full-Stack Developer".')</p>
 <!--
