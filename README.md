@@ -32,6 +32,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jacky-ui&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacky-ui&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <p>console.log('Shh. You had me at "Full-Stack Developer".')</p>
 <!--
 **jacky-ui/jacky-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
