@@ -9,7 +9,7 @@
 </div>
 
 ### Hi there 👋
-<p>Welcome to my profile! I'm a full-stack developer based out of Canada. I have a background in Electrical Engineering Technician and now working in the Web Dev field! Talk to me about:</p>
+<p>Welcome to my profile! I'm a Web Developer based out of Canada. I have a background in Electrical Engineering Technician and now working in the Web Dev field! Talk to me about:</p>
 
 <ul>
   <li>Front-End: HTML5, CSS3, CSS, SASS, Bootstrap, JavaScript, React</li>
