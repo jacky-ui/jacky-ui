@@ -12,7 +12,7 @@
 <p>Welcome to my profile! I'm a Full Stack Developer based out of Canada. I have a background in Electrical Engineering Technician and now working in the Web Dev field! Talk to me about:</p>
 
 <ul>
-  <li>Front-End: HTML5, CSS3, CSS, SASS, Bootstrap, JavaScript, React</li>
+  <li>Front-End: HTML5, CSS, SASS, Bootstrap, JavaScript, React</li>
   <li>Back-End: JavaScript, Node.js, Express.js, mySQL</li>
   <li>Libraries: React-Router-Dom, bcrypt, Axios, JWT, express-rate-limit</li>
   <li>Tools: Figma, Git, Github, VSCode, Postman, SAP hybris, JIRA</li>
