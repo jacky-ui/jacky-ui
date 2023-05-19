@@ -8,7 +8,7 @@
   </a>
 </div>
 
-### Hi there 👋
+### Hello there 👋
 <p>Welcome to my profile! I'm a Full Stack Developer with focus on Front-End Development, based out of Canada. I have a background in Electrical Engineering Technician and now working in the Web Dev field! Talk to me about:</p>
 
 <ul>
