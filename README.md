@@ -32,6 +32,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jacky-ui&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacky-ui&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <p>console.log('Shh. You had me at "Full-Stack Developer".')</p>
