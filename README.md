@@ -30,7 +30,6 @@
 
 ### My Stats :
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jacky-ui&theme=tokyonight" alt="GitHub Streak" /></a>
 [![GitHub Streak](https://streak-stats.demolab.com?user=jacky-ui&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
