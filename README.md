@@ -13,7 +13,7 @@
 
 With a diverse skill set that spans both front-end and back-end development, I’ve worked on everything from optimizing web experiences to leading technical initiatives in organizations. I take pride in creating solutions that are not only functional but also intuitive and user-friendly.</p>
 
-### Recent Experience:
+### Recent Experience 📖:
 
 <p>Currently, I serve as the Chief Technology Officer at TheOnePlan. In this role, I’m leading key tech initiatives, shaping our development strategy, and guiding the direction for innovative web solutions.
 
