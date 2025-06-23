@@ -15,7 +15,7 @@ With a diverse skill set that spans both front-end and back-end development, I�
 
 ### Recent Experience:
 
-<p>Currently, I serve as the Chief Technology Officer at TheOnePlan. In this role, I’m leading key tech initiatives, shaping our development strategy, and guiding the direction for innovative web solutions, all while working remotely on a contract basis.
+<p>Currently, I serve as the Chief Technology Officer at TheOnePlan. In this role, I’m leading key tech initiatives, shaping our development strategy, and guiding the direction for innovative web solutions.
 
 I’m also a Full Stack Developer at DuIt Web, where I design and build end-to-end web solutions that focus on performance, scalability, and delivering seamless user experiences. As a full stack developer, I’m involved in both the client and server-side development, ensuring each component integrates smoothly for optimal performance.
 
