@@ -13,6 +13,8 @@
 
 With a diverse skill set that spans both front-end and back-end development, I’ve worked on everything from optimizing web experiences to leading technical initiatives in organizations. I take pride in creating solutions that are not only functional but also intuitive and user-friendly.</p>
 
+#### Recent Experience:
+
 <p>Talk to me about:</p>
 <ul>
   <li>Front-End: HTML5, CSS, SASS, Bootstrap, JavaScript, React</li>
