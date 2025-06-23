@@ -40,6 +40,9 @@ In addition to these roles, I’m working with Elections Ontario as a Communicat
   </a>
 </p>
 
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHU4MWh1d3FxZ2YxN3FndWw2YjNqMzJ4OHVsMmJhdHA4MHA3ZTF3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMRgWdqopR1Ar04/giphy.gif" width="100"/>
+</div>
 ---
 
 ### My Stats :
