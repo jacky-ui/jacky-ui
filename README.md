@@ -9,8 +9,11 @@
 </div>
 
 ### Hello there 👋
-<p>Welcome to my profile! I'm a Full Stack Developer with focus on Front-End Development, based out of Canada. I have a background in Electrical Engineering Technician and now working in the Web Dev field! Talk to me about:</p>
+<p>Hi, I'm a Full Stack Developer with a strong passion for Front-End Development. My journey began in the world of Electrical Engineering Technology, but I soon realized my calling in web development. Today, I specialize in building responsive, accessible, and high-performance web applications.
 
+With a diverse skill set that spans both front-end and back-end development, I’ve worked on everything from optimizing web experiences to leading technical initiatives in organizations. I take pride in creating solutions that are not only functional but also intuitive and user-friendly.</p>
+
+<p>Talk to me about:</p>
 <ul>
   <li>Front-End: HTML5, CSS, SASS, Bootstrap, JavaScript, React</li>
   <li>Back-End: JavaScript, Node.js, Express.js, MySQL</li>
