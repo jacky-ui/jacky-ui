@@ -8,12 +8,18 @@
   </a>
 </div>
 
-### Hello there 👋
+## Hello there 👋
 <p>Hi, I'm a Full Stack Developer with a strong passion for Front-End Development. My journey began in the world of Electrical Engineering Technology, but I soon realized my calling in web development. Today, I specialize in building responsive, accessible, and high-performance web applications.
 
 With a diverse skill set that spans both front-end and back-end development, I’ve worked on everything from optimizing web experiences to leading technical initiatives in organizations. I take pride in creating solutions that are not only functional but also intuitive and user-friendly.</p>
 
-#### Recent Experience:
+### Recent Experience:
+
+<p>Currently, I serve as the Chief Technology Officer at TheOnePlan. In this role, I’m leading key tech initiatives, shaping our development strategy, and guiding the direction for innovative web solutions, all while working remotely on a contract basis.
+
+I’m also a Full Stack Developer at DuIt Web, where I design and build end-to-end web solutions that focus on performance, scalability, and delivering seamless user experiences. As a full stack developer, I’m involved in both the client and server-side development, ensuring each component integrates smoothly for optimal performance.
+
+In addition to these roles, I’m working with Elections Ontario as a Communications Officer, Website Specialist, and AEM Front-End Developer Trainee. Here, I manage and optimize their website using Adobe Experience Manager (AEM) while ensuring that accessibility is maintained through compliance with WCAG standards. One of my proudest achievements has been the development of an internal automation tool that improved workflow efficiency by 80%, significantly reducing manual tasks.</p>
 
 <p>Talk to me about:</p>
 <ul>
