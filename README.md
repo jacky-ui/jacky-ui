@@ -40,9 +40,6 @@ In addition to these roles, I’m working with Elections Ontario as a Communicat
   </a>
 </p>
 
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHU4MWh1d3FxZ2YxN3FndWw2YjNqMzJ4OHVsMmJhdHA4MHA3ZTF3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMRgWdqopR1Ar04/giphy.gif" width="500px"/>
-</div>
 ---
 
 ### My Stats :
@@ -52,3 +49,7 @@ In addition to these roles, I’m working with Elections Ontario as a Communicat
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <p>console.log('Shh. You had me at "Full-Stack Developer".')</p>
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHU4MWh1d3FxZ2YxN3FndWw2YjNqMzJ4OHVsMmJhdHA4MHA3ZTF3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMRgWdqopR1Ar04/giphy.gif" width="500px"/>
+</div>
