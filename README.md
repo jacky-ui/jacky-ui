@@ -24,6 +24,8 @@ I’m also a Full Stack Developer at DuIt Web, where I design and build end-to-e
 
 In addition to these roles, I’m working with Elections Ontario as a Communications Officer, Website Specialist, and AEM Front-End Developer Trainee. Here, I manage and optimize their website using Adobe Experience Manager (AEM) while ensuring that accessibility is maintained through compliance with WCAG standards. One of my proudest achievements has been the development of an internal automation tool that improved workflow efficiency by 80%, significantly reducing manual tasks.</p>
 
+<p>console.log('Shh. You had me at "Full-Stack Developer".')</p>
+
 <p>Talk to me about 😎</p>
 <ul>
   <li>Front-End: HTML5, CSS, SASS, Bootstrap, JavaScript, React</li>
@@ -47,8 +49,6 @@ In addition to these roles, I’m working with Elections Ontario as a Communicat
 [![GitHub Streak](https://streak-stats.demolab.com?user=jacky-ui&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
-<p>console.log('Shh. You had me at "Full-Stack Developer".')</p>
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHU4MWh1d3FxZ2YxN3FndWw2YjNqMzJ4OHVsMmJhdHA4MHA3ZTF3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMRgWdqopR1Ar04/giphy.gif" width="500px"/>
