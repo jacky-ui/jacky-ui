@@ -48,8 +48,6 @@ In addition to these roles, I’m working with Elections Ontario as a Communicat
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jacky-ui&theme=tokyonight)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jacky-ui&theme=tokyonight)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <div>
