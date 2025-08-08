@@ -22,7 +22,7 @@ With a diverse skill set that spans both front-end and back-end development, I�
 
 I’m also a Full Stack Developer at DuIt Web, where I design and build end-to-end web solutions that focus on performance, scalability, and delivering seamless user experiences. As a full stack developer, I’m involved in both the client and server-side development, ensuring each component integrates smoothly for optimal performance.
 
-In addition to these roles, I’m working with Elections Ontario as a Communications Officer, Website Specialist, and AEM Front-End Developer Trainee. Here, I manage and optimize their website using Adobe Experience Manager (AEM) while ensuring that accessibility is maintained through compliance with WCAG standards. One of my proudest achievements has been the development of an internal automation tool that improved workflow efficiency by 80%, significantly reducing manual tasks.</p>
+In addition to these roles, I’m working with Elections Ontario as a Communications Officer, Website Specialist, and Accessibility Specialist. Here, I manage and optimize their website using Adobe Experience Manager (AEM) while ensuring that accessibility is maintained through compliance with WCAG standards. One of my proudest achievements has been the development of an internal automation tool that improved workflow efficiency by 80%, significantly reducing manual tasks.</p>
 
 <p>console.log('Shh. You had me at "Full-Stack Developer".')</p>
 
